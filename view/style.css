@@ -1,0 +1,18 @@
+.main {
+    display: block;
+    margin: 50px 200px;
+}
+
+.table {
+
+    text-align: center;
+}
+
+a:hover {
+    text-decoration-line: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
